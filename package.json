@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/DavidWelchez/Ejemplo/issues"
   },
-  "homepage": "https://github.com/DavidWelchez/Ejemplo#readme"
+  "homepage": "https://github.com/DavidWelchez/Ejemplo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
